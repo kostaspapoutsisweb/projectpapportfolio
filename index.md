@@ -2,7 +2,7 @@
 layout: landing
 
 user: Project PAP ☕
-profile: https://github.com/coffeebank
+profile: https://github.com/orgs/Project-PAP
 avatar: https://avatars3.githubusercontent.com/u/23473065
 
 bio: "Looking out into the starry sky, sipping a nice cup of coffee..."
