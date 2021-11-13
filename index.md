@@ -12,12 +12,12 @@ badges:
     burl: https://musicy.projectpap.ga
 
 sitelist:
-  - sname: Wysc
-    ssubline: Virtual Study Cafe
-    surl: /wysc
-    simage: /home/media/wysc02.jpg
+  - sname: Project PAP Survival
+    ssubline: Ο Survival Minecraft Server μας
+    surl: https://projectpapsurvival.gq
+    simage: /home/media/projectpapsurvival.jpg
     sdesc: "For students striving to be better, Wysc is the study Discord server that delivers a cohesive, global online studying experience, as the first Discord server to present an edu-social cafe experience to an audience of hundreds."
-    sdescurl: https://wysc.us.to
+    sdescurl: https://projectpapsurvival.gq
     sbadges:
       - Jekyll
       - Bootstrap
