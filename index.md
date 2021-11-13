@@ -5,7 +5,7 @@ user: Project PAP 💻
 profile: https://github.com/orgs/Project-PAP
 avatar: https://avatars.githubusercontent.com/u/91753373
 
-bio: "Εδώ έχουμε μαζεμένες όλες τις υπηρεσίες διαχειρίζεται το Project PAP!"
+bio: "Εδώ έχουμε μαζεμένες όλες τις υπηρεσίες τις οποίες διαχειρίζεται το Project PAP!"
 
 badges:
   - bname: Musicy Project PAP 🎧
