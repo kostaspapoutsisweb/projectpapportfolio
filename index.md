@@ -1,7 +1,7 @@
 ---
 layout: landing
 
-user: Project PAP ☕
+user: Project PAP 💻
 profile: https://github.com/orgs/Project-PAP
 avatar: https://avatars.githubusercontent.com/u/91753373
 
