@@ -19,47 +19,16 @@ sitelist:
     sdesc: "For students striving to be better, Wysc is the study Discord server that delivers a cohesive, global online studying experience, as the first Discord server to present an edu-social cafe experience to an audience of hundreds."
     sdescurl: https://projectpapsurvival.gq
     sbadges:
-      - Jekyll
-      - Bootstrap
-      - Documentation
+      - Sites
     ssection:
-      - ssname: Wysc&#12539;Virtual Study Cafe
-        ssurl: "https://wysc.us.to"
-        ssimage: /home/media/wyscsite_min.jpg
-        ssdesc: A web app built to inform and impress. Uses deferred content loading techniques to load pages quickly and polyfills to extend browser support. Equipped with Open Graph tags for social media, Widgetbot for live chat support, and progressive web app support for iOS, Android, and Chrome. Hosted on GitHub Pages in Jekyll.
+      - ssname: Project PAP Survival&#12539;Ο Survival Minecraft Server μας
+        ssurl: "https://projectpapsurvival.gq"
+        ssimage: /home/media/projectpapsurvival.jpg
+        ssdesc: Το site του Minecraft Server μας!
         ssbadges:
-          - PWA
-          - Bootstrap
-          - Browser Support
-          - Live chat widget
-
-      - ssname: Wysc Blog
-        ssurl: "https://wysc.us.to/blog"
-        ssimage: /home/media/wyscsiteblog01_min.jpg
-        ssdesc: A blog system made for Wysc that leverages Jekyll to recreate a live experience on a static website. Features a static json API that can be easily updated, which is connected to the Wysc Blog homepage by Fetch API to reflect status updates. Latest three blog posts are shown, with a "Load more posts" button. Comes with an RSS feed updated automatically by Jekyll.
-        ssbadges:
-          - Jekyll
-          - Json API
-          - Fetch API
-          - RSS Feed
-          
-      - ssname: Wysc Docs
-        ssurl: "https://wysc.us.to/docs"
-        ssimage: /home/media/wyscsitedocs01_min.jpg
-        ssdesc: A documentation system made for Wysc that leverages Jekyll to create an easy-to-update repository. Features an alert system with Fetch API, local search with Lunr.js, and light/dark theme built in SCSS. Uses Simple-DataTable for quick, searchable bot command lists. SEO enhancements including breadcrumbs, redirects, and og:tags.
-        ssbadges:
-          - Sass/SCSS
-          - Light/Dark Theme
-          - Fetch API
-          - Command Lists
-
-      - ssname: Work &middot; Studying &middot; Chilling
-        ssurl: "https://wysc.us.to/joinwsc"
-        ssimage: /home/media/wyscjoinwsc_min.jpg
-        ssdesc: (Deprecated) Provides a simple front-end webpage for WSC (Work &middot; Studying &middot; Chilling), geared towards funnelling users to the WSC Discord. Features parallax images, Discord widget, and elements fading in on scroll, organized in an informative fashion.
-        ssbadges:
-          - Weebly
-          - Landing page
+          - Server
+          - Site
+          - Mine
 
   - sname: Myaa
     ssubline: Designing a premium showcase with deep integrations
