@@ -5,7 +5,7 @@ user: Project PAP ☕
 profile: https://github.com/orgs/Project-PAP
 avatar: https://avatars.githubusercontent.com/u/91753373
 
-bio: "Looking out into the starry sky, sipping a nice cup of coffee..."
+bio: "Εδώ έχουμε μαζεμένες όλες τις υπηρεσίες διαχειρίζεται το Project PAP!"
 
 badges:
   - bname: Lofi Listener 🎧
