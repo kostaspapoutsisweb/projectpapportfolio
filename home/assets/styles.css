@@ -1,0 +1,256 @@
+html, body, .body-content {
+    scroll-behavior: smooth;
+}
+
+.cbsiteback {
+    background-color: rgba(0, 0, 0, .35);
+}
+    @supports ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))) {
+        .cbsiteback {
+            background-color: rgba(0, 0, 0, 35%);
+            -webkit-backdrop-filter: blur(0.5rem);
+            backdrop-filter: blur(0.5rem);
+        }
+    }
+
+.cbsitehover {
+    height: 100%;
+    width: 100%;
+    transition: all 0.5s ease;
+}
+    .cbsitehover2 {
+        overflow: hidden;
+    }
+    .cbsitehover:hover {
+        transform: scale(1.15);
+    }
+
+.cbscmiheight { /* sitecell modal image */
+    height: 240px;
+}
+    .cbscmcdivider {
+        box-sizing: content-box;
+        height: 0;
+        overflow: visible;
+        line-height: 0;
+        border: none;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+        .cbscmcdivider::after {
+            content: "";
+            display: inline-block;
+            width: 100px;
+            max-width: 80%;
+            border-top: 1px solid #e5e5e5;
+            vertical-align: top;
+        }
+    .cbscmclink { /* sitecell modal content */
+        transition: 0.2s;
+    }
+        .cbscmclink:hover {
+            color: #4FD1C5; /*text-teal-400*/
+        }
+    .cbscmcsiteclick {
+        height: 100%;
+        width: 100%;
+        transition: all 0.5s ease;
+        transform: translate(50%, 50%);
+    }
+        .cbscmcsiteclick:hover {
+            transform: scale(1.15);
+        }
+@keyframes cbsiteping {
+  80%,
+  to {
+    transform:scale(2);
+    opacity:0
+  }
+  }
+.cbsiteping {
+  animation: cbsiteping 1.25s cubic-bezier(0,0,.2,1) infinite
+}
+
+/* https://gist.github.com/ghosh/4f94cf497d7090359a5c9f81caf60699 */
+.modal__overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 20;
+}
+    .modal__container {
+        background-color: #fff;
+        padding: 0;
+        width: 100%;
+        height: 100vh;
+        overflow: hidden;
+        box-sizing: border-box;
+        z-index: 30;
+    }
+    .modal__header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .modal__title {
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 600;
+        font-size: 1.25rem;
+        line-height: 1.25;
+        color: #00449e;
+        box-sizing: border-box;
+    }
+    .modal__close {
+        background: white;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 1.25rem;
+        padding-right: 1.25rem;
+        border: 0;
+    }
+    .modal__container .modal__close:before { content: "\2715"; }
+    .modal__btn {
+        font-size: .875rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-top: .5rem;
+        padding-bottom: .5rem;
+        background-color: #e6e6e6;
+        color: rgba(0,0,0,.8);
+        border-radius: .25rem;
+        border-style: none;
+        border-width: 0;
+        cursor: pointer;
+        -webkit-appearance: button;
+        text-transform: none;
+        overflow: visible;
+        line-height: 1.15;
+        margin: 0;
+        will-change: transform;
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+        transition: -webkit-transform .25s ease-out;
+        transition: transform .25s ease-out;
+        transition: transform .25s ease-out,-webkit-transform .25s ease-out;
+    }
+    .modal__btn:focus, .modal__btn:hover {
+        -webkit-transform: scale(1.05);
+        transform: scale(1.05);
+    }
+    .modal__btn-primary {
+        background-color: #00449e;
+        color: #fff;
+    }
+    @keyframes mmfadeIn {
+        from { opacity: 0; }
+          to { opacity: 1; }
+    }
+    @keyframes mmfadeOut {
+        from { opacity: 1; }
+          to { opacity: 0; }
+    }
+    @keyframes mmslideIn {
+      from { transform: translateY(15%); }
+        to { transform: translateY(0); }
+    }
+    @keyframes mmslideOut {
+        from { transform: translateY(0); }
+        to { transform: translateY(10%); }
+    }
+    .micromodal-slide {
+      display: none;
+    }
+    .micromodal-slide.is-open {
+      display: block;
+    }
+    .micromodal-slide[aria-hidden="false"] .modal__overlay {
+      animation: mmfadeIn .3s cubic-bezier(0.0, 0.0, 0.2, 1);
+    }
+    .micromodal-slide[aria-hidden="false"] .modal__container {
+      animation: mmslideIn .3s cubic-bezier(0, 0, .2, 1);
+    }
+    .micromodal-slide[aria-hidden="true"] .modal__overlay {
+      animation: mmfadeOut .3s cubic-bezier(0.0, 0.0, 0.2, 1);
+    }
+    .micromodal-slide[aria-hidden="true"] .modal__container {
+      animation: mmslideOut .3s cubic-bezier(0, 0, .2, 1);
+    }
+    .micromodal-slide .modal__container,
+    .micromodal-slide .modal__overlay {
+      will-change: transform;
+    }
+
+/* ----------------------------------------------
+* Generated by Animista on 2020-4-27 3:9:0
+* Licensed under FreeBSD License.
+* See http://animista.net/license for more info. 
+* w: http://animista.net, t: @cssanimista
+* ---------------------------------------------- */
+
+.fade-in-fwd {
+	-webkit-animation: fade-in-fwd 1.2s cubic-bezier(0.215, 0.61, 0.355, 1) both;
+	        animation: fade-in-fwd 1.2s cubic-bezier(0.215, 0.61, 0.355, 1) both;
+}
+    @-webkit-keyframes fade-in-fwd {
+        0% {
+        -webkit-transform: translateZ(-80px);
+                transform: translateZ(-80px);
+        opacity: 0;
+        }
+        100% {
+        -webkit-transform: translateZ(0);
+                transform: translateZ(0);
+        opacity: 1;
+        }
+    }
+    @keyframes fade-in-fwd {
+        0% {
+        -webkit-transform: translateZ(-80px);
+                transform: translateZ(-80px);
+        opacity: 0;
+        }
+        100% {
+        -webkit-transform: translateZ(0);
+                transform: translateZ(0);
+        opacity: 1;
+        }
+    }
+
+.slide-in-fwd-center {
+    -webkit-animation: slide-in-fwd-center 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.4s both;
+    animation: slide-in-fwd-center 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.4s both;
+}
+    @-webkit-keyframes slide-in-fwd-center {
+        0% {
+            -webkit-transform: translateZ(-1400px);
+            transform: translateZ(-1400px);
+            opacity: 0;
+        }
+        100% {
+            -webkit-transform: translateZ(0);
+            transform: translateZ(0);
+            opacity: 1;
+        }
+    }
+    @keyframes slide-in-fwd-center {
+        0% {
+            -webkit-transform: translateZ(-1400px);
+            transform: translateZ(-1400px);
+            opacity: 0;
+        }
+        100% {
+            -webkit-transform: translateZ(0);
+            transform: translateZ(0);
+            opacity: 1;
+        }
+    }
