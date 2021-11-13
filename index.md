@@ -8,8 +8,8 @@ avatar: https://avatars.githubusercontent.com/u/91753373
 bio: "Εδώ έχουμε μαζεμένες όλες τις υπηρεσίες διαχειρίζεται το Project PAP!"
 
 badges:
-  - bname: Lofi Listener 🎧
-    burl: /soju
+  - bname: Musicy Project PAP 🎧
+    burl: https://musicy.projectpap.ga
 
 sitelist:
   - sname: Wysc
