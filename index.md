@@ -16,7 +16,7 @@ sitelist:
     ssubline: Ο Survival Minecraft Server μας
     surl: https://projectpapsurvival.gq
     simage: /home/media/projectpapsurvival.jpg
-    sdesc: "For students striving to be better, Wysc is the study Discord server that delivers a cohesive, global online studying experience, as the first Discord server to present an edu-social cafe experience to an audience of hundreds."
+    sdesc: "Ο ιδιοκτήτης του καναλιού Project PAP καθώς και άτομα από την ομάδα συντονιστών έχουμε στήσει για το κοινό και όχι μόνο έναν Minecraft Server. Σε αυτή την ενότητα λοιπόν θα βρείτε ότι έχει σχέση με αυτόν τον server."
     sdescurl: https://projectpapsurvival.gq
     sbadges:
       - Sites
