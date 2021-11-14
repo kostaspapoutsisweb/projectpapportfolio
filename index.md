@@ -15,11 +15,11 @@ sitelist:
   - sname: Project PAP Survival
     ssubline: Ο Survival Minecraft Server μας
     surl: https://projectpapsurvival.gq
-    simage: /home/media/projectpapsurvival.jpg
+    simage: /home/media/gamesonline.jpg
     sdesc: "Ο ιδιοκτήτης του καναλιού Project PAP καθώς και άτομα από την ομάδα συντονιστών έχουμε στήσει για το κοινό και όχι μόνο έναν Minecraft Server. Σε αυτή την ενότητα λοιπόν θα βρείτε ότι έχει σχέση με αυτόν τον server."
     sdescurl: https://projectpapsurvival.gq
     sbadges:
-      - Sites
+      - Games
     ssection:
       - ssname: Project PAP Survival&#12539;Ο Survival Minecraft Server μας
         ssurl: "https://projectpapsurvival.gq"
