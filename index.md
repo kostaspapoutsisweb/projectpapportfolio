@@ -23,7 +23,7 @@ sitelist:
     ssection:
       - ssname: Project PAP Survival&#12539;Ο Minecraft Server μας!
         ssurl: "https://projectpapsurvival.gq"
-        ssimage: /home/media/projectpapsurvival.jpg
+        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/projectpapsurvival.jpg
         ssdesc: Αυτή είναι η ιστοσελίδα του Minecraft server μας!
         ssbadges:
           - Server
