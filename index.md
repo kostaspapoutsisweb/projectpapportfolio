@@ -76,14 +76,14 @@ sitelist:
           - Free Voice
           - Project PAP Blog
 
-     - ssname: Project PAP Minecraft Guide
-       ssurl: https://minecraft.projectpap.gq
-       ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/logo.png
-       ssdesc: Αυτή η υπηρεσία ακόμα δεν είναι πλήρως λειτουργική γιαυτό και δεν έχουμε δώσει ακόμα το link αλλά και δεν θα σας αναφέρουμε τι υπηρεσία είναι. 
-       ssbadges:
-         - Minecraft
-         - How To
-         - Minecraft Guide
+      - ssname: Project PAP Minecraft Guide
+         ssurl: https://minecraft.projectpap.gq
+         ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/logo.png
+         ssdesc: Αυτή η υπηρεσία ακόμα δεν είναι πλήρως λειτουργική γιαυτό και δεν έχουμε δώσει ακόμα το link αλλά και δεν θα σας αναφέρουμε τι υπηρεσία είναι. 
+         ssbadges:
+           - Minecraft
+           - How To
+           - Minecraft Guide
 
 
   - sname: Personal Projects
