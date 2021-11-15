@@ -15,7 +15,7 @@ sitelist:
   - sname: Project PAP Παιχνίδια
     ssubline: Servers παιχνιδιών που στήθηκαν από εμάς!
     surl: https://projectpap.gq
-    simage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/gamesonline.jpg
+    simage: https://portfolio.projectpap.ga/home/media/gamesonline.jpg
     sdesc: "Θέλετε να βρείτε τους gaming servers που έχουμε στήσει ο ιδιοκτήτης του καναλιού μαζί με κάποια άτομα από την ομάδα των συντονιστών; Σε αυτή την λίστα θα τους βρείτε."
     sdescurl: https://projectpap.gq
     sbadges:
@@ -23,7 +23,7 @@ sitelist:
     ssection:
       - ssname: Project PAP Survival&#12539;Ο Minecraft Server μας!
         ssurl: "https://projectpapsurvival.gq"
-        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/projectpapsurvival.jpg
+        ssimage: https://portfolio.projectpap.ga/home/media/projectpapsurvival.jpg
         ssdesc: Αυτή είναι η ιστοσελίδα του Minecraft server μας!
         ssbadges:
           - Server
@@ -33,7 +33,7 @@ sitelist:
   - sname: Project PAP Sites & Services
     ssubline: Τα sites και οι υπηρεσίες που λειτουργούν από την ομάδα μας!
     surl: /sites-services
-    simage: "https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/logo.png"
+    simage: "https://portfolio.projectpap.ga/home/media/logo.png"
     sdesc: "Έχουμε φτιάξει κάποιες ιστοσελίδες και υπηρεσίες για εσάς και αυτές θα τις βρείτε εδώ."
     sdescurl: https://projectpap.gq
     sbadges:
@@ -42,7 +42,7 @@ sitelist:
     ssection:
       - ssname: Musicy Project PAP
         ssurl: https://musicy.projectpap.ga
-        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/musicy.png
+        ssimage: https://portfolio.projectpap.ga/home/media/musicy.png
         ssdesc: Βαριέστε να συνδεθείτε στον Spotify λογαριασμό σας αλλά ξέρετε το link από την αγαπημένη σας Playlist; Με αυτό το εργαλείο σας δίνουμε την δυνατότητα να την ακούσετε χωρίς να χρειάζεται να κάνετε συνδεθείτε στον λογαριασμό σας.
         ssbadges:
           - Spotify
@@ -51,7 +51,7 @@ sitelist:
 
       - ssname: Project PAP Site
         ssurl: https://projectpap.gq
-        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/logo.png
+        ssimage: https://portfolio.projectpap.ga/home/media/logo.png
         ssdesc: Αυτός είναι ο κύριος ιστότοπος του καναλιού Project PAP. 
         ssbadges:
           - Site
@@ -60,7 +60,7 @@ sitelist:
       
       - ssname: Project PAP Radio
         ssurl: https://radio.projectpap.gq
-        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/logo.png
+        ssimage: https://portfolio.projectpap.ga/home/media/logo.png
         ssdesc: Ο δικός μας ραδιοφωνικός σταθμός με 24/7 Non stop νησιώτικη μουσική. 
         ssbadges:
           - Radio
@@ -69,7 +69,7 @@ sitelist:
 
       - ssname: Project PAP Blog
         ssurl: https://www.projectpap.ga
-        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/logo.png
+        ssimage: https://portfolio.projectpap.ga/home/media/logo.png
         ssdesc: Ένα Blog μέσα από το οποίο δίνουμε φωνή σε όλο τον κόσμο να εκφραστεί ελεύθερα για πολλά θέματα. 
         ssbadges:
           - Blog
@@ -78,7 +78,7 @@ sitelist:
 
       - ssname: Project PAP Minecraft Guide
         ssurl: https://minecraft.projectpap.gq
-        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/logo.png
+        ssimage: https://portfolio.projectpap.ga/home/media/logo.png
         ssdesc: Αυτή η υπηρεσία ακόμα δεν είναι πλήρως λειτουργική γιαυτό και δεν έχουμε δώσει ακόμα το link αλλά και δεν θα σας αναφέρουμε τι υπηρεσία είναι. 
         ssbadges:
           - Minecraft
@@ -89,7 +89,7 @@ sitelist:
   - sname: Social
     ssubline: Βρείτε τα social media και Network του Project PAP!
     surl: /
-    simage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/social-logo.png
+    simage: https://portfolio.projectpap.ga/home/media/social-logo.png
     sdesc: "Εδώ μπορείτε να βρείτε τα social network και social media του καναλιού μας!"
     sdescurl: https://projectpap.gq
     sbadges:
