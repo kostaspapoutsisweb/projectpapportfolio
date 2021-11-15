@@ -15,7 +15,7 @@ sitelist:
   - sname: Project PAP Παιχνίδια
     ssubline: Servers παιχνιδιών που στήθηκαν από εμάς!
     surl: https://projectpap.gq
-    simage: /home/media/gamesonline.jpg
+    simage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/gamesonline.jpg
     sdesc: "Θέλετε να βρείτε τους gaming servers που έχουμε στήσει ο ιδιοκτήτης του καναλιού μαζί με κάποια άτομα από την ομάδα των συντονιστών; Σε αυτή την λίστα θα τους βρείτε."
     sdescurl: https://projectpap.gq
     sbadges:
