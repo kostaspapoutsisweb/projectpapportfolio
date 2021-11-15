@@ -110,15 +110,12 @@ sitelist:
         ssbadges:
           - Instagram
 
-      - ssname: Moonrise MC
-        ssurl: /moonrise
-        ssimage: /home/media/crispmc.jpg
-        ssdesc: A simple, lightweight, responsive landing page template for a Minecraft server. Server name and IP can be easily changed. IP background changes when server goes offline. Integrates Discord via Widgetbot, and Minecraft server status with Mcsrvstat.us.
+      - ssname: Twitter
+        ssurl: https://twitter.com/project_pap
+        ssimage: https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png
+        ssdesc: Ακολουθήστε το Project PAP στο Twitter στο @project_pap!
         ssbadges:
-          - Free/Open Source
-          - Tailwind
-          - Fetch API
-          - Minecraft
+          - Twitter
 
       - ssname: Sheepicon
         ssurl: /sheepicon
