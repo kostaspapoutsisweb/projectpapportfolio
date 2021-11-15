@@ -124,14 +124,11 @@ sitelist:
         ssbadges:
           - YouTube
 
-      - ssname: Arland - Minecraft Server
-        ssurl: /arland
-        ssimage: /home/media/arlandpwa_min.jpg
-        ssdesc: The primary landing page for all things Arland. Modernizes Arland's web properties by utilizing MaterializeCSS to implement a material design look and feel that is responsive across all screen sizes. Experiments with noscript fallbacks, <code>position:sticky</code>, z-index, and animated scrolling to page anchors.
+      - ssname: Trovo
+        ssurl: https://trovo.live/ProjectPAP
+        ssimage: https://astatic.trovo.live/cat/img/icon_512.4f5f85.png
+        ssdesc: Ακολουθήστε το Project PAP στο Trovo για μελλοντικά live stream σε αυτή την πλατφόρμα!
         ssbadges:
-          - PWA
-          - MaterializeCSS
-          - Material Design
-          - GitHub API
+          - Trovo
 
 ---
