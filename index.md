@@ -108,10 +108,7 @@ sitelist:
         ssimage: https://logos-world.net/wp-content/uploads/2020/04/Instagram-Logo.png
         ssdesc: Βρείτε και ακολουθήστε το Project PAP στο Instagram με το όνομα @projectpapofficial! 
         ssbadges:
-          - Vue JS
-          - Node.js
-          - Web authentication
-          - Spotify API
+          - Instagram
 
       - ssname: Moonrise MC
         ssurl: /moonrise
