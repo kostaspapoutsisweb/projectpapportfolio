@@ -30,25 +30,24 @@ sitelist:
           - Site
           - Mine
 
-  - sname: Myaa
-    ssubline: Designing a premium showcase with deep integrations
-    surl: /myaa
-    simage: "/home/media/bailey-zindel-NRQV-hBF10M-unsplash_c02.jpg"
-    sdesc: "A custom-built personal showcase that explores APIs from services to create a best-in-class user experience, unifying services and displaying fresh content to represent Myaa."
-    sdescurl: https://myaa.netlify.app
+  - sname: Project PAP Sites & Services
+    ssubline: Τα sites και οι υπηρεσίες που λειτουργούν από την ομάδα μας!
+    surl: /sites-services
+    simage: "/home/media/logo.jpg"
+    sdesc: "Έχουμε φτιάξει κάποιες ιστοσελίδες και υπηρεσίες για εσάς και αυτές θα τις βρείτε εδώ."
+    sdescurl: https://projectpap.gq
     sbadges:
-      - Vue.js
-      - Tailwind
-      - PWA
+      - Sites
+      - Services
     ssection:
-      - ssname: Music
-        ssurl: /myaa/music
-        ssimage: /home/media/am03.jpg
-        ssdesc: UI design inspired by Spotify. Backend is a simple list of playlist IDs. Retrieves user playlist images, song data, and music samples directly from Spotify Web API. UX considerations include playlist song counts, autostop when playing new sample, and visual indicators for no-sample songs.
+      - ssname: Musicy Project PAP
+        ssurl: https://musicy.projectpap.ga
+        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/musicy.jpg
+        ssdesc: Βαριέστε να συνδεθείτε στον Spotify λογαριασμό σας αλλά ξέρετε το link από την αγαπημένη σας Playlist; Με αυτό το εργαλείο σας δίνουμε την δυνατότητα να την ακούσετε χωρίς να χρειάζεται να κάνετε συνδεθείτε στον λογαριασμό σας.
         ssbadges:
-          - Vue.js
-          - Spotify Web API
-          - HTML5 Audio
+          - Spotify
+          - Musicy
+          - Project PAP
 
       - ssname: Anime
         ssurl: /myaa/anime
