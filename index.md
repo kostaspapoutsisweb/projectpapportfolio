@@ -49,24 +49,6 @@ sitelist:
           - Musicy
           - Project PAP
 
-      - ssname: Anime
-        ssurl: /myaa/anime
-        ssimage: /home/media/am02.jpg
-        ssdesc: Integrates recently watched/read feeds in a mobile-adaptive format. Backend is a simple list in the Vuex store. Data is lazily fetched, live from AniList, as user navigates through each page. Careful attention to UX through placeholders and responsive interface as data loads.
-        ssbadges:
-          - CSS Scroll Snap
-          - GraphQL REST API
-          - Transitions
-          - Vuex store
-
-      - ssname: Emotes
-        ssurl: /myaa/emotes
-        ssimage: /home/media/am04.jpg
-        ssdesc: A frontend for a saved archive of liked Discord emotes. Easily click to copy image URLs with a satisfying app-like experience. Performance enhancements include swipe to switch tabs, lazy loaded images, and click-to-play for animated emotes.
-        ssbadges:
-          - Vuetify JS
-          - Javascript
-          - Sheepicon
 
   - sname: Personal Projects
     ssubline: Python scripts, Web Apps, and Landing Pages
