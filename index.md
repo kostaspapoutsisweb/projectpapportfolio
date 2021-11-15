@@ -57,6 +57,15 @@ sitelist:
           - Site
           - Official Web
           - Our site
+      
+     - ssname: Project PAP Radio
+        ssurl: https://radio.projectpap.gq
+        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/logo.png
+        ssdesc: Ο δικός μας ραδιοφωνικός σταθμός με 24/7 Non stop νησιώτικη μουσική. 
+        ssbadges:
+          - Radio
+          - 24/7
+          - Non stop Νησιώτικα
 
 
   - sname: Personal Projects
