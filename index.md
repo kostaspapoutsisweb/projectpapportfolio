@@ -33,7 +33,7 @@ sitelist:
   - sname: Project PAP Sites & Services
     ssubline: Τα sites και οι υπηρεσίες που λειτουργούν από την ομάδα μας!
     surl: /sites-services
-    simage: "/home/media/logo.jpg"
+    simage: "https://kostaspapoutsisweb.github.io/home/media/logo.jpg"
     sdesc: "Έχουμε φτιάξει κάποιες ιστοσελίδες και υπηρεσίες για εσάς και αυτές θα τις βρείτε εδώ."
     sdescurl: https://projectpap.gq
     sbadges:
