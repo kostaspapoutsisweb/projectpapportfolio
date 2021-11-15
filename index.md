@@ -42,7 +42,7 @@ sitelist:
     ssection:
       - ssname: Musicy Project PAP
         ssurl: https://musicy.projectpap.ga
-        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/musicy.jpg
+        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/musicy.png
         ssdesc: Βαριέστε να συνδεθείτε στον Spotify λογαριασμό σας αλλά ξέρετε το link από την αγαπημένη σας Playlist; Με αυτό το εργαλείο σας δίνουμε την δυνατότητα να την ακούσετε χωρίς να χρειάζεται να κάνετε συνδεθείτε στον λογαριασμό σας.
         ssbadges:
           - Spotify
