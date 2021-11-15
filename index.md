@@ -103,10 +103,10 @@ sitelist:
         ssbadges:
           - Facebook
 
-      - ssname: Soju for Spotify
-        ssurl: /soju
-        ssimage: https://raw.githubusercontent.com/coffeebank/soju/master/public/media/preview.png
-        ssdesc: Soju lets you play music samples/listen to song previews from Spotify on any device -- no downloading apps, no trackers, and fast load times. Uses Node.js API and Amazon AWS Lambda; environment variables for securing Spotify API keys; and URL queries to process links automatically on load. 
+      - ssname: Instagram
+        ssurl: https://www.instagram.com/projectpapofficial/
+        ssimage: https://logos-world.net/wp-content/uploads/2020/04/Instagram-Logo.png
+        ssdesc: Βρείτε και ακολουθήστε το Project PAP στο Instagram με το όνομα @projectpapofficial! 
         ssbadges:
           - Vue JS
           - Node.js
