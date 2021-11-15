@@ -117,15 +117,12 @@ sitelist:
         ssbadges:
           - Twitter
 
-      - ssname: Sheepicon
-        ssurl: /sheepicon
-        ssimage: /home/media/sheepicon.jpg
-        ssdesc: A quick, clean dashboard for saving and copying image links easily, including Discord emotes. Thanks to Markdown, links are easy to add, save, and publish. Responsively designed, caches for offline use, and includes a REST API for those making custom frontends!
+      - ssname: YouTube
+        ssurl: https://youtube.com/channel/UCCpJGuyPsXJDoYTtH2PQR9g
+        ssimage: https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png
+        ssdesc: Κάντε subscribe για να μην χάνετε κανένα βίντεο ή ακόμα και live stream του καναλιού μας!
         ssbadges:
-          - Free/Open Source
-          - Jekyll
-          - Tailwind
-          - Javascript
+          - YouTube
 
       - ssname: Arland - Minecraft Server
         ssurl: /arland
