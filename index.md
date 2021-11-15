@@ -67,6 +67,15 @@ sitelist:
           - 24/7
           - Non stop Νησιώτικα
 
+      - ssname: Project PAP Blog
+        ssurl: https://www.projectpap.ga
+        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/logo.png
+        ssdesc: Ένα Blog μέσα από το οποίο δίνουμε φωνή σε όλο τον κόσμο να εκφραστεί ελεύθερα για πολλά θέματα. 
+        ssbadges:
+          - Blog
+          - Free Voice
+          - Project PAP Blog
+
 
   - sname: Personal Projects
     ssubline: Python scripts, Web Apps, and Landing Pages
