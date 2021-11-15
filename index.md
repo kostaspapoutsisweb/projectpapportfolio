@@ -77,7 +77,7 @@ sitelist:
           - Project PAP Blog
 
       - ssname: Project PAP Minecraft Guide
-        ssurl: https://minecraft.projectpap.gq
+        ssurl: 
         ssimage: https://portfolio.projectpap.ga/home/media/logo.png
         ssdesc: Αυτή η υπηρεσία ακόμα δεν είναι πλήρως λειτουργική γιαυτό και δεν έχουμε δώσει ακόμα το link αλλά και δεν θα σας αναφέρουμε τι υπηρεσία είναι. 
         ssbadges:
