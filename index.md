@@ -49,9 +49,7 @@ sitelist:
           - Musicy
           - Project PAP
 
-
-        
-     - ssname: Project PAP Site
+      - ssname: Project PAP Site
         ssurl: https://projectpap.gq
         ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/logo.png
         ssdesc: Αυτός είναι ο κύριος ιστότοπος του καναλιού Project PAP. 
