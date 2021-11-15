@@ -49,6 +49,15 @@ sitelist:
           - Musicy
           - Project PAP
 
+     - ssname: Project PAP Site
+        ssurl: https://projectpap.gq
+        ssimage: https://kostaspapoutsisweb.github.io/projectpapportfolio/home/media/logo.png
+        ssdesc: Αυτός είναι ο κύριος ιστότοπος του καναλιού Project PAP. 
+        ssbadges:
+          - Site
+          - Official Web
+          - Our site
+
 
   - sname: Personal Projects
     ssubline: Python scripts, Web Apps, and Landing Pages
