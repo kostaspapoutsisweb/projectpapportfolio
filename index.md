@@ -68,7 +68,7 @@ sitelist:
           - Non stop Νησιώτικα
 
       - ssname: Project PAP Blog
-        ssurl: https://www.projectpap.ga
+        ssurl: https://blog.projectpap.gq
         ssimage: https://services.projectpap.gq/home/media/logo.png
         ssdesc: Ένα Blog μέσα από το οποίο δίνουμε φωνή σε όλο τον κόσμο να εκφραστεί ελεύθερα για πολλά θέματα. 
         ssbadges:
