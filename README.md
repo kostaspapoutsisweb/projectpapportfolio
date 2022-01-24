@@ -1,6 +1,6 @@
 # Τι ακριβώς είναι αυτό το repository;
 
-Είναι το repository του https://portfolio.projectpap.ga.
+Είναι το repository του https://portfolio.projectpap.gq.
 
 ## Μπορώ να συνεισφέρω στο Portfolio;
 
