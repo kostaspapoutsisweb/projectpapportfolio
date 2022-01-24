@@ -10,8 +10,10 @@ bio: "Εδώ έχουμε μαζεμένες όλες τις υπηρεσίες 
 badges:
   - bname: Musicy Project PAP 🎧
     burl: https://musicy.projectpap.gq
-  - bname: Discord Server
+  - bname: Discord Server 💻📱
     burl: https://services.projectpap.gq/discord
+  - bname Discord Minecraft Server 🎮
+    burl https://services.projectpap.gq/discordmc
 
 sitelist:
   - sname: Project PAP Παιχνίδια
