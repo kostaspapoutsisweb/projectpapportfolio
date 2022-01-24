@@ -12,7 +12,7 @@ badges:
     burl: https://musicy.projectpap.gq
   - bname: Discord 💻📱
     burl: https://services.projectpap.gq/discord
-  - bname Discord Minecraft Server 🎮
+  - bname Discord MC Server 🎮
     burl https://services.projectpap.gq/discordmc
 
 sitelist:
