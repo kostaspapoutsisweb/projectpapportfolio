@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://discord.​gg/Waeg227Jvb
+tourl: https://discord.gg/zuKhRKDD3k
 ---
