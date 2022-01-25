@@ -47,7 +47,7 @@ sitelist:
       - ssname: Musicy Project PAP
         ssurl: https://musicy.projectpap.gq
         ssimage: https://services.projectpap.gq/home/media/musicy.png
-        ssdesc: Βαριέστε να συνδεθείτε στον Spotify λογαριασμό σας αλλά ξέρετε το link από την αγαπημένη σας Playlist; Με αυτό το εργαλείο σας δίνουμε την δυνατότητα να την ακούσετε χωρίς να χρειάζεται να κάνετε συνδεθείτε στον λογαριασμό σας.
+        ssdesc: Βαριέστε να συνδεθείτε στον Spotify λογαριασμό σας αλλά ξέρετε το link από την αγαπημένη σας Playlist; Με αυτό το εργαλείο σας δίνουμε την δυνατότητα να την ακούσετε χωρίς να χρειάζεται να συνδεθείτε στον λογαριασμό σας. Δείτε ένα δείγμα με τον 12ο πίθηκο <a href="https://musicy.projectpap.gq/?s=https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI" target="blank">εδώ</a>!
         ssbadges:
           - Spotify
           - Musicy
