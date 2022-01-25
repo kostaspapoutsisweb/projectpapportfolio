@@ -1,28 +1,30 @@
-self.addEventListener('install', function(event) {
-    var offlineRequest = new Request('offline.html');
-    event.waitUntil(
-      fetch(offlineRequest).then(function(response) {
-        return caches.open('offline').then(function(cache) {
-          console.log('[oninstall] Cached offline page', response.url);
-          return cache.put(offlineRequest, response);
-        });
-      })
-    );
-});
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js');
+if (workbox) {
+    console.log('[ PWA Fire Bundle ] Hello from Workbox');
 
-self.addEventListener('fetch', function(event) {
-    var request = event.request;
-    if (request.method === 'GET') {
-        event.respondWith(
-            fetch(request).catch(function(error) {
-                console.error(
-                    '[onfetch] Failed. Serving cached offline fallback ' +
-                    error
-                );
-                return caches.open('offline').then(function(cache) {
-                    return cache.match('offline.html');
-                });
-            })
-        );
-    }
-});
+
+
+    /* change strategy method to fit your pwa needs,
+      update RegExp dir/route and cache name */
+    workbox.routing.registerRoute(
+        new RegExp('/'),
+        new workbox.strategies.StaleWhileRevalidate({
+            cacheName: 'app',
+            plugins: [
+                new workbox.cacheableResponse.Plugin({
+                    statuses: [0, 200],
+                }),
+                new workbox.expiration.Plugin({
+                    maxAgeSeconds: 60 * 60 * 24 * 1,
+                }),
+            ],
+        })
+    );
+
+
+
+    workbox.core.skipWaiting();
+    workbox.core.clientsClaim();
+} else {
+    console.log('Boo! Workbox failed to load 😬');
+}
