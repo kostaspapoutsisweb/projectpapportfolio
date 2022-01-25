@@ -11,25 +11,25 @@
 "lang": "en-US",
 "icons": [
   {
-    "src": "https://services.projectpap.gq/media/wysc/wsc-rounded-sm.png",
+    "src": "https://services.projectpap.gq/media/logos/logo-project-pap.png",
     "sizes": "128x128",
     "type": "image/png",
     "purpose": "any"
   },
   {
-    "src": "https://services.projectpap.gq/media/wysc/wsc-sp-rounded.png",
+    "src": "https://services.projectpap.gq/media/logos/logo-project-pap.png",
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any"
   },
   {
-    "src": "https://services.projectpap.gq/media/wysc/wysc_maskable_icon.png",
+    "src": "https://services.projectpap.gq/media/logos/logo-project-pap.png",
     "sizes": "152x152",
     "type": "image/png",
     "purpose": "maskable"
   },
   {
-    "src": "https://services.projectpap.gq/media/wysc/wysc_maskable.png",
+    "src": "https://services.projectpap.gq/media/logos/logo-project-pap.png",
     "sizes": "640x640",
     "type": "image/png",
     "purpose": "maskable"
