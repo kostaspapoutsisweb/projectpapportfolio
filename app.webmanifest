@@ -3,8 +3,8 @@
 {
 "short_name": "Project PAP Portfolio",
 "name": "Project PAP Portfolio",
-"theme_color": "#082B3E",
-"background_color": "#9C5D49",
+"theme_color": "#000000",
+"background_color": "#c39b77",
 "display": "standalone",
 "description": "Powered by: Project PAP",
 "orientation":"portrait",
