@@ -1,0 +1,40 @@
+---
+---
+{
+"short_name": "Project PAP Portfolio",
+"name": "Project PAP Portfolio",
+"theme_color": "#082B3E",
+"background_color": "#9C5D49",
+"display": "standalone",
+"description": "Powered by: Project PAP",
+"orientation":"portrait",
+"lang": "en-US",
+"icons": [
+  {
+    "src": "https://services.projectpap.gq/media/wysc/wsc-rounded-sm.png",
+    "sizes": "128x128",
+    "type": "image/png",
+    "purpose": "any"
+  },
+  {
+    "src": "https://services.projectpap.gq/media/wysc/wsc-sp-rounded.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any"
+  },
+  {
+    "src": "https://services.projectpap.gq/media/wysc/wysc_maskable_icon.png",
+    "sizes": "152x152",
+    "type": "image/png",
+    "purpose": "maskable"
+  },
+  {
+    "src": "https://services.projectpap.gq/media/wysc/wysc_maskable.png",
+    "sizes": "640x640",
+    "type": "image/png",
+    "purpose": "maskable"
+  }
+],
+"start_url": "https://services.projectpap.gq",
+"scope": "{{ site.baseurl }}/"
+}
