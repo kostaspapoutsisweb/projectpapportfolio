@@ -1,12 +1,12 @@
 ---
 ---
 {
-"short_name": "Project PAP Portfolio",
-"name": "Project PAP Portfolio",
+"short_name": "Net Achievements Portfolio",
+"name": "NA Portfolio",
 "theme_color": "#000000",
-"background_color": "#c39b77",
+"background_color": "#0000ff",
 "display": "standalone",
-"description": "Powered by: Project PAP",
+"description": "Powered by: Net Achievements",
 "orientation":"portrait",
 "lang": "en-US",
 "icons": [
