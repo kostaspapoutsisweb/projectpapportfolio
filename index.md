@@ -23,7 +23,7 @@ sitelist:
     sdesc: "Θέλετε να βρείτε τις ιστοσελίδες που φιλοξενεί το Net Achievements; Σε αυτή την λίστα θα τις βρείτε."
     sdescurl: https://net-achievements.gr/
     sbadges:
-      - Sites
+      - Ιστοσελίδες
     ssection:
       - ssname: Project PAP Survival&#12539;Ο Minecraft Server μας!
         ssurl: "https://projectpapsurvival.gq"
