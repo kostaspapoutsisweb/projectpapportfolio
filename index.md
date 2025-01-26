@@ -8,12 +8,12 @@ avatar: https://net-achievements.gr/wp-content/uploads/2024/03/net-achievements-
 bio: "Εδώ έχουμε μαζεμένες όλες τις υπηρεσίες τις οποίες διαχειρίζεται η ομάδα Net Achievements!"
 
 badges:
-  - bname: Musicy Project PAP 🎧
-    burl: https://musicy.projectpap.gq
-  - bname: Discord Server 💻📱
-    burl: https://services.projectpap.gq/discord
-  - bname: Discord MC Server 🎮
-    burl: https://services.projectpap.gq/discordmc
+  - bname: Που έχω παρκάρει 📱
+    burl: https://play.google.com/store/apps/details?id=appinventor.ai_kwstantinos_papoutsis.AndroidWheresMyCar_MIT
+  - bname: Εισαγωγή επαφής 📱
+    burl: https://play.google.com/store/apps/details?id=appinventor.ai_kwstantinos_papoutsis.addcontancts
+  - bname: Εισαγωγή επαφής Pro 📱
+    burl: https://play.google.com/store/apps/details?id=appinventor.ai_kwstantinos_papoutsis.addcontanctspro
 
 sitelist:
   - sname: Project PAP Παιχνίδια
