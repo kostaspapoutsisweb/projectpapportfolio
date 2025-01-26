@@ -34,6 +34,7 @@ sitelist:
           - Site
           - Mine
 
+sitelist:
   - sname: Project PAP Sites & Services
     ssubline: Τα sites και οι υπηρεσίες που λειτουργούν από την ομάδα μας!
     surl: /sites-services
