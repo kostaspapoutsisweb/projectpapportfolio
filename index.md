@@ -16,14 +16,14 @@ badges:
     burl: https://play.google.com/store/apps/details?id=appinventor.ai_kwstantinos_papoutsis.addcontanctspro
 
 sitelist:
-  - sname: Project PAP Παιχνίδια
-    ssubline: Servers παιχνιδιών που στήθηκαν από εμάς!
-    surl: https://projectpap.gq
-    simage: https://services.projectpap.gq/home/media/gamesonline.jpg
-    sdesc: "Θέλετε να βρείτε τους gaming servers που έχουμε στήσει ο ιδιοκτήτης του καναλιού μαζί με κάποια άτομα από την ομάδα των συντονιστών; Σε αυτή την λίστα θα τους βρείτε."
-    sdescurl: https://projectpap.gq
+  - sname: Ιστοσελίδες
+    ssubline: Οι ιστοσελίδες που φιλοξενούνται από το Net Achievements!
+    surl: https://net-achievements.gr/
+    simage: https://www.pressaris.gr/wp-content/uploads/2022/06/sites.jpg
+    sdesc: "Θέλετε να βρείτε τις ιστοσελίδες που φιλοξενεί το Net Achievements; Σε αυτή την λίστα θα τις βρείτε."
+    sdescurl: https://net-achievements.gr/
     sbadges:
-      - Games
+      - Sites
     ssection:
       - ssname: Project PAP Survival&#12539;Ο Minecraft Server μας!
         ssurl: "https://projectpapsurvival.gq"
