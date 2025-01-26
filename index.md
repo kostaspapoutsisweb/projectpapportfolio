@@ -1,11 +1,11 @@
 ---
 layout: landing
 
-user: Project PAP 💻
-profile: https://github.com/orgs/Project-PAP
-avatar: https://avatars.githubusercontent.com/u/91753373
+user: Net Achievements 💻
+profile: https://net-achievements.gr/
+avatar: https://net-achievements.gr/wp-content/uploads/2024/03/net-achievements-logo.jpg.pagespeed.ce.VmMlEc975V.jpg
 
-bio: "Εδώ έχουμε μαζεμένες όλες τις υπηρεσίες τις οποίες διαχειρίζεται το Project PAP!"
+bio: "Εδώ έχουμε μαζεμένες όλες τις υπηρεσίες τις οποίες διαχειρίζεται η ομάδα Net Achievements!"
 
 badges:
   - bname: Musicy Project PAP 🎧
