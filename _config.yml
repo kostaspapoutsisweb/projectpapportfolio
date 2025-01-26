@@ -1,6 +1,6 @@
-title: Project PAP Portfolio 💻 - YouTuber
+title: Net Achievements Portfolio 💻 - Internet Services
 description: >- # this means to ignore newlines until "baseurl:"
-  Το Project PAP Portfolio 💻 είναι ένα Portfolio που αποτελείτε από τις υπηρεσίες που διαχειρίζεται το Project PAP συμπεριλαμβανομένων και των υπηρεσιών που διαχειρίζεται η ομάδα συντονισμού του.
+  Το Net Achievements Portfolio 💻 είναι ένα Portfolio που αποτελείτε από τις υπηρεσίες που διαχειρίζεται το Net Achievements συμπεριλαμβανομένων και των υπηρεσιών που διαχειρίζεται η ομάδα συντονισμού του.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://portfolio.projectpap.ga" # the base hostname & protocol for your site, e.g. http://example.com
 
