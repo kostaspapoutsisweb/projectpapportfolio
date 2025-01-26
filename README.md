@@ -1,6 +1,6 @@
 # Τι ακριβώς είναι αυτό το repository;
 
-Είναι το repository του https://portfolio.projectpap.gq.
+Είναι το repository του https://portfolio.net-achievements.gr.
 
 ## Μπορώ να συνεισφέρω στο Portfolio;
 
